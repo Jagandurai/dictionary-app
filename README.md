@@ -1,10 +1,21 @@
-# Dictionary App
+# 📘 Dictionary App (React Native with Expo)
 
-This is a simple React Native app built with Expo that allows a user to clarify any term they type in by fetching its definition from an API.
+A simple single-screen dictionary app built using React Native (Expo). It allows users to type in a term and fetch its definition using a public API.
 
-## Setup & Run Instructions
+---
+
+## 🚀 Features
+
+- 🔍 Search for definitions of any word.
+- 🧠 Synonyms are highlighted.
+- ⏳ Loading indicator while fetching.
+- ⚠️ Graceful error handling (term not found / network issues).
+
+---
+
+## ⚙️ Setup & Run Instructions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dictionary-app.git
+   git clone https://github.com/Jagandurai/dictionary-app.git
    cd dictionary-app
